@@ -1,7 +1,6 @@
-# قالب های گزارش و مستند سازی incident و postmortem 
-
-## قالب‌ها
+# قالب‌های گزارش و مستند سازی 
 
 
-* [incident](./incident.md)
-* [postmortem](./postmortem.md)
+* [فایل Readme](./readme.template.md)
+* [حادثه - incident](./incident.md)
+* [پُست مرتم - postmortem](./postmortem.md)
